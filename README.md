@@ -40,3 +40,63 @@ Approved Evidence
 Grounded AI
     ↓
 Structured Interpretation
+```
+
+### Highlights
+
+- Deterministic domain engines
+- Grounded AI interpretation
+- Versioned historical replay
+- Local-first architecture
+- Vue 3 + TypeScript + uni-app
+- H5 + WeChat Mini Program
+- 600+ automated tests
+
+👉 **[View the project showcase](https://github.com/1211-alt/guanxiang-zhiwei-showcase)**
+
+---
+
+## What I'm Exploring
+
+- AI application architecture
+- Grounded LLM workflows
+- Structured outputs
+- Deterministic / generative boundaries
+- Reproducible historical systems
+- Local-first applications
+- Cross-platform mobile UX
+- Testing complex domain logic
+
+---
+
+## Engineering Principles
+
+**Deterministic before generative**
+
+AI should interpret facts rather than invent application truth.
+
+**Snapshots before recalculation**
+
+Historical records should preserve what actually happened at that time.
+
+**Adapters before coupling**
+
+External libraries should remain behind project-owned interfaces.
+
+**Evidence before explanation**
+
+AI responses should be grounded in explicit application context.
+
+---
+
+## Tech
+
+`TypeScript` · `Vue 3` · `uni-app` · `Vite` · `H5` · `WeChat Mini Program`
+
+`Grounded AI` · `Structured Outputs` · `Local-first` · `Deterministic Systems`
+
+---
+
+<p align="center">
+  <b>Build deterministic systems. Use AI where it adds value.</b>
+</p>
